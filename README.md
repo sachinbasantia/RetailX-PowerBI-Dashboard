@@ -33,13 +33,7 @@ Welcome to the RetailX Sales Data Analysis project! This project leverages the p
 - **Personal Care Dominance**: The personal care category is a significant profit driver, contributing to 69.74% of the gross margin.
 - **Food Category Potential**: While the food category's contribution is smaller at 20.77%, there might be opportunities to increase its profitability through product mix optimization or pricing strategies.
 
-## Repository Contents
-- **Data**: Contains the raw sales data used for analysis.
-- **Power BI File**: The Power BI file (.pbix) used for creating visualizations and analysis.
-- **Reports**: Exported reports and dashboards in PDF and PowerPoint format.
-- **Scripts**: SQL scripts used for data cleaning and preparation.
 
-## How to Use
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/RetailX-Sales-Data-Analysis.git
+
+
+
